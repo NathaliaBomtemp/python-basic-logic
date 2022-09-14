@@ -1,7 +1,7 @@
 ## Python Basic Logic Notebook
 <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a>
 
-More details of the project description - **in progress** :hammer_and_wrench:
+More details of the project description - **in progress** :hammer_and_wrench:.
 
 ## Author
 <table align="center">
